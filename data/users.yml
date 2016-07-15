@@ -1,0 +1,7 @@
+dev:
+  existing_user_with_history:
+    user_name: "someone"
+    password: "test"
+test:
+ existing_user_with_history:
+    password: "nacho"

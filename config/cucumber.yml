@@ -1,0 +1,7 @@
+default: --format html --out reports.html
+
+critical: --tags ~@critical
+
+dev:
+test: test-google.com
+prod:

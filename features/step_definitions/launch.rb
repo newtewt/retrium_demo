@@ -13,3 +13,4 @@ Then(/^I see the home page$/) do
   home_page.what_went_well_element.when_visible
   expect(home_page.what_went_well_element.exists?).to be true
 end
+
